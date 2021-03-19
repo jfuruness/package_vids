@@ -1,0 +1,10 @@
+setup.py
+lib_work_login/__init__.py
+lib_work_login/__main__.py
+lib_work_login.egg-info/PKG-INFO
+lib_work_login.egg-info/SOURCES.txt
+lib_work_login.egg-info/dependency_links.txt
+lib_work_login.egg-info/requires.txt
+lib_work_login.egg-info/top_level.txt
+lib_work_login/sub_dir/__init__.py
+lib_work_login/sub_dir/work_login.py
