@@ -1,1 +1,1 @@
-Free Course: https://www.udemy.com/course/python-packaging/
+Udemy Course: https://www.udemy.com/course/python-packaging/
