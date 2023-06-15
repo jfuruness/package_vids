@@ -1,6 +1,6 @@
 # lib\_work\_login
 
-All this package does is run a set of commands to log you into work through a terminal.
+This package runs a set of commands to log you into work through a terminal.
 
 This is because I have to go through several ssh gateways, move dirs, activiate tmux, type my password, and sometimes I need multiple terminals going. So this is a way to make it much faster.
 
